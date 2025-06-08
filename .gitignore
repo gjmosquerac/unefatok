@@ -4,3 +4,5 @@
 .env
 /storage/*.key
 
+/vendor
+/node_modules
